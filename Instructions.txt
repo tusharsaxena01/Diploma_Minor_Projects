@@ -1,0 +1,15 @@
+So here are some of the ideas for our project
+
+So we are doing Python Project and I'm suggesting some of the topics for our project
+Some point to keep in mind while choosing our topic: We have to continue with the same topic in the mini project to the larger level in next semester so keeping that in mind. The Following Topics are:
+
+1. Simple CUI Based Banking Application
+2. Simple CUI Based Calculator
+3. ROT-13 Algorithm Program (ROT-13 means adding the value 13 to the position of the alphabet. eg. 'A' becomes 'M')
+4. Student Details Database
+
+and if you want to suggest any other then please email me at:
+
+tusharsaxena786786@gmail.com
+or
+WhatsApp - 7007459349
