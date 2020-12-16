@@ -13,7 +13,7 @@ import sys
 # The Function to call the Team Members if quiting
 
 def Quit():
-	print(teamMembers())
+	teamMembers()
 	print("*"*12+" Thank You "+"*"*12)
 	return
 
