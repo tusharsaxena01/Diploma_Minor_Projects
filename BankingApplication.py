@@ -17,7 +17,7 @@ def Quit():
 	print("*"*12+" Thank You "+"*"*12)
 	return
 
-# Banner FUnction to make the program more attractive
+# Banner Function to make the program more attractive
 
 def banner():
 	print("*"*36)
