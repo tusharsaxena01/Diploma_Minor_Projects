@@ -8,7 +8,6 @@ Which are listed Below:
 - Message after each transaction on the screen
 
 '''
-import sys
 
 # The Function to call the Team Members if quiting
 
@@ -70,6 +69,7 @@ def verify(accInfo):
 		return True
 	else:
 		return False
+	
 # The Deposit function to let the user deposit the amount of money he wants
 
 def Deposit(accInfo):
@@ -80,6 +80,7 @@ def Deposit(accInfo):
 	else:
 		print("Account Verification Failed!")
 	return accInfo
+
 # The withdraw function to let the user withdraw the amount from the money he owns
 # Operations for both savings and current accounts'
 
